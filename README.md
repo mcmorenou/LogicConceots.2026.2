@@ -1,1 +1,1 @@
-# LogicConceots.2024.1
+# LogicConceots.2026.2
