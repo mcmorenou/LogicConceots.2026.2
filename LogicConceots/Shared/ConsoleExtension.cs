@@ -27,5 +27,43 @@ public static class ConsoleExtension
     }
 
 
+    public static string? GetString(string message)
+    {
+        Console.Write(message);
+        var text = Console.ReadLine();
+        return text;
+
+    }
+
+
+    public static float GetFloat(string message)
+    {
+        Console.Write(message);
+        var numberString = Console.ReadLine();
+        if (float.TryParse(numberString, out float numberFloat))
+        {
+            return numberFloat;
+        }
+        return 0;
+    }
+
+
+    public static decimal GetDecimal(string message)
+    {
+        Console.Write(message);
+        var numberString = Console.ReadLine();
+        if (Decimal.TryParse(numberString, out decimal numberDecimal))
+        {
+            return numberDecimal;
+        }
+        return 0;
+    }
+
+
+
+
+
+
+
 }
 
