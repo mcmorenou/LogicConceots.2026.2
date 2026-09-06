@@ -44,8 +44,11 @@
   <Folder Name="/27/">
     <Project Path="PalindromePhrases/PalindromePhrases.csproj" Id="6c23bca5-9f34-47d0-aec0-97317451bc14" />
   </Folder>
-  <Folder Name="/31/">
-    <Project Path="fas/fas.csproj" Id="11700989-8ff3-46b8-ab6e-c8fb99f14485" />
+  <Folder Name="/32/">
+    <Project Path="Diamond/Rhombus.csproj" Id="ed7c51fd-f076-4c6f-bb07-a2cec521bcc1" />
+  </Folder>
+  <Folder Name="/33/">
+    <Project Path="MatrixMultiplication/MatrixMultiplication.csproj" Id="c9013241-adce-49da-b914-5bdfea3c0151" />
   </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="90370117-ebac-4948-8e82-621c07f59363" />
