@@ -17,6 +17,30 @@
   <Folder Name="/06/">
     <Project Path="SimplePayroll/SimplePayroll.csproj" Id="22428bd4-3843-4c2c-bc13-64a75ea449e1" />
   </Folder>
+  <Folder Name="/07/">
+    <Project Path="Discounts/Discounts.csproj" Id="99f0acd7-28ce-4147-abf2-ae9f78c82059" />
+  </Folder>
+  <Folder Name="/08/">
+    <Project Path="RegistrationValue/RegistrationValue.csproj" Id="d0e73e1b-c1e8-49fe-8698-a3fc2bdfed7d" />
+  </Folder>
+  <Folder Name="/12/">
+    <Project Path="SumAndAverage/SumAndAverage.csproj" Id="75372388-c1e0-4eda-a527-068813335b3c" />
+  </Folder>
+  <Folder Name="/13/">
+    <Project Path="Factorial/Factorial.csproj" Id="3bf86568-8248-4aa4-9734-a181e53eec86" />
+  </Folder>
+  <Folder Name="/14/">
+    <Project Path="Taylor/Taylor.csproj" Id="1ed1e36a-2ccc-462b-a539-4c64d45b012c" />
+  </Folder>
+  <Folder Name="/15/">
+    <Project Path="TaylorModified/TaylorModified.csproj" Id="93d08a5c-ca98-42eb-b48a-37317981123b" />
+  </Folder>
+  <Folder Name="/16/">
+    <Project Path="QuadraticEquations/QuadraticEquations.csproj" Id="c34c0295-99dd-4535-ab6e-77d10a8ea66a" />
+  </Folder>
+  <Folder Name="/17/">
+    <Project Path="Fibonacci/Fibonacci.csproj" Id="beff8c1f-d5fc-4ccd-a38b-ae223c75138c" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="90370117-ebac-4948-8e82-621c07f59363" />
   </Folder>
